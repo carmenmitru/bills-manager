@@ -13,3 +13,5 @@ Bill manager is a command line program used to by owners to supervise the list o
 
 
 ### How to run 
+
+`cargo run`
